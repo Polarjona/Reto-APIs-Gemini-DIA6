@@ -1,0 +1,99 @@
+[
+    {
+        "idioma": "Inglés",
+        "entidades": [],
+        "sentimiento": "Negativo",
+        "resumen": "Alerta urgente de seguridad para restablecer la contraseña.",
+        "texto_original": "URGENT: Your account has been compromised. Please reset your password immediately."
+    },
+    {
+        "idioma": "Español",
+        "entidades": [
+            "Madrid"
+        ],
+        "sentimiento": "Neutral",
+        "resumen": "Comida excelente pero pésimo servicio en restaurante de Madrid.",
+        "texto_original": "El nuevo restaurante de Madrid tiene una comida increíble, pero el servicio fue pésimo."
+    },
+    {
+        "idioma": "Inglés",
+        "entidades": [
+            "Apple",
+            "iPhone 16",
+            "California"
+        ],
+        "sentimiento": "Neutral",
+        "resumen": "Apple anunciará el nuevo iPhone 16 en septiembre.",
+        "texto_original": "Apple is expected to announce the new iPhone 16 in September at their California headquarters."
+    },
+    {
+        "idioma": "Español",
+        "entidades": [
+            "equipo",
+            "reunión trimestral",
+            "martes"
+        ],
+        "sentimiento": "Neutral",
+        "resumen": "Reunión trimestral pospuesta para el próximo martes.",
+        "texto_original": "Estimado equipo, la reunión trimestral se pospone al próximo martes a las 10:00 AM."
+    },
+    {
+        "idioma": "Español",
+        "entidades": [
+            "inteligencia artificial generativa",
+            "sector tecnológico global"
+        ],
+        "sentimiento": "Positivo",
+        "resumen": "La IA generativa transforma rápidamente el sector tecnológico.",
+        "texto_original": "La inteligencia artificial generativa está transformando rápidamente el sector tecnológico global."
+    },
+    {
+        "idioma": "Español",
+        "entidades": [
+            "Dune 2"
+        ],
+        "sentimiento": "Positivo",
+        "resumen": "Excelente película Dune 2 con efectos especiales alucinantes.",
+        "texto_original": "Me encantó la película Dune 2, los efectos especiales fueron alucinantes. ¡Totalmente recomendada!"
+    },
+    {
+        "idioma": "Inglés",
+        "entidades": [
+            "Flight BA245",
+            "London"
+        ],
+        "sentimiento": "Negativo",
+        "resumen": "Vuelo BA245 a Londres retrasado por clima severo",
+        "texto_original": "Flight BA245 to London is delayed by 2 hours due to severe weather conditions."
+    },
+    {
+        "idioma": "Español",
+        "entidades": [
+            "Amazon"
+        ],
+        "sentimiento": "Negativo",
+        "resumen": "Paquete de Amazon llegó roto y retrasado; exige reembolso.",
+        "texto_original": "El paquete que pedí en Amazon llegó roto y con 3 días de retraso. Exijo un reembolso total."
+    },
+    {
+        "idioma": "Inglés",
+        "entidades": [
+            "Tesla",
+            "Elon Musk",
+            "Texas"
+        ],
+        "sentimiento": "Positivo",
+        "resumen": "Acciones de Tesla suben tras anuncio de nueva gigafábrica.",
+        "texto_original": "Tesla's stock price surged today after Elon Musk announced a new gigafactory in Texas."
+    },
+    {
+        "idioma": "Español",
+        "entidades": [
+            "informe de ventas Q3",
+            "cliente"
+        ],
+        "sentimiento": "Neutral",
+        "resumen": "Revisar el informe de ventas Q3 antes de la presentación.",
+        "texto_original": "Por favor, revisa el informe de ventas Q3 adjunto antes de la presentación de mañana con el cliente."
+    }
+]

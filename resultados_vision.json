@@ -1,0 +1,60 @@
+[
+    {
+        "ocr": "Ninguno",
+        "descripcion": "Una tortuga marina nada en aguas tropicales poco profundas rodeada de peces y arrecifes de coral.",
+        "escena": "Exterior",
+        "objetos_detectados": [
+            "Tortuga marina",
+            "Pez",
+            "Arrecife de coral"
+        ],
+        "archivo": "fotos/img1.jpg"
+    },
+    {
+        "ocr": "Ninguno",
+        "descripcion": "Una montaña verde y dorada se refleja perfectamente en las aguas tranquilas de un lago bajo un cielo azul brillante.",
+        "escena": "Exterior",
+        "objetos_detectados": [
+            "Montaña",
+            "Lago",
+            "Árboles",
+            "Cielo",
+            "Nubes"
+        ],
+        "archivo": "fotos/img2.jpg"
+    },
+    {
+        "ocr": "Coca-Cola\nDelicious & Refreshing\n330ml\nDine Art Work\n14/02/2022",
+        "descripcion": "Una lata roja de Coca-Cola sobre un fondo negro con su reflejo proyectado en la base.",
+        "escena": "Producto",
+        "objetos_detectados": [
+            "Lata de refresco",
+            "Reflejo"
+        ],
+        "archivo": "fotos/img3.jpg"
+    },
+    {
+        "ocr": "Relational Database\n\nStudents\nId Name\n1 Sam\n2 Mary\n3 Tine\n\nStudentCourses\nStudentId CourseId\n1 1\n1 2\n1 3\n2 3\n2 4\n3 3\n3 5\n\nCourses\nId Name\n1 SQL Server\n2 ASP.NET MVC\n3 MongoDB\n4 Java\n5 PHP",
+        "descripcion": "Un diagrama explicativo que ilustra una relación de muchos a muchos en una base de datos relacional mediante tres tablas: Students, StudentCourses y Courses.",
+        "escena": "Documento",
+        "objetos_detectados": [
+            "Diagrama",
+            "Tabla de datos",
+            "Flecha indicadora",
+            "Texto"
+        ],
+        "archivo": "fotos/img4.jpg"
+    },
+    {
+        "ocr": "NIREEKA, RACEKING, monocoque carbon fiber frame",
+        "descripcion": "Una bicicleta eléctrica de montaña de color negro de la marca Nireeka, apoyada contra una pared de hormigón texturizado sobre un suelo de grava.",
+        "escena": "Producto",
+        "objetos_detectados": [
+            "Bicicleta",
+            "Neumático",
+            "Pared de hormigón",
+            "Grava"
+        ],
+        "archivo": "fotos/img5.jpg"
+    }
+]
